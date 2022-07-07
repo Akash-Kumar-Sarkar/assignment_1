@@ -56,7 +56,9 @@ body {
     text-decoration: none;
     color: brown;
     border: red;
-    background-color: FF5959;
+    background-color: rgb(240, 160, 193);
+    height: 40px;
+    width: 60px;
 
 }
 
@@ -183,7 +185,7 @@ body {
     font-size: large;
     background-color: black;
     background-size: cover;
-    height: 50px;
+    height: 100px;
     width: 1350px;
 
 }
